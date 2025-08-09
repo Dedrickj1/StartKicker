@@ -1,3 +1,11 @@
-This project was a collaboration between myself(Dedrickj1), Bschaler, aromeo1, and robyrob1. This repository is a fork of the original, which can be found here https://github.com/robyrob1/StartKicker.
+# StartKicker (Collaborative Project)
 
-My contribution to the group project is that I Designed and implemented a full-stack category management feature, including a RESTful API for all CRUD operations and a dynamic frontend interface for seamless user interaction.
+This project was developed collaboratively by [Dedrickj1](https://github.com/Dedrickj1), [Bschaler](https://github.com/Bschaler), [aromeo1](https://github.com/aromeo1), and [robyrob1](https://github.com/robyrob1).
+
+This repository is my personal fork of the [original project repository](https://github.com/robyrob1/StartKicker).
+
+---
+
+## My Key Contributions
+
+* Designed and implemented the full-stack category management feature, including a RESTful API for all CRUD operations and a dynamic frontend interface for seamless user interaction.
